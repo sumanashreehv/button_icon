@@ -1,0 +1,25 @@
+.btnDwn {
+    padding: 18px;
+    background-color: violet;
+    border-style: none;
+    border-color: none;
+    border-radius: 5%;
+    align-items: center;
+    font-size: 20px;
+    color: brown;
+}
+
+.fa {
+    padding-left: 12px;
+}
+
+.btnClose {
+    padding: 18px;
+    background-color: red;
+    border-style: none;
+    border-color: none;
+    border-radius: 5%;
+    align-items: center;
+    font-size: 20px;
+    color: whitesmoke;
+}
